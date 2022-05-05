@@ -4,8 +4,13 @@ body{
 h1{
     font-size: 80px;
 }
-.intro-area{
+h2{
+    font-size: 80px;
+}
+section{
     display: flex;
+    margin-bottom: 150px;
+    align-items: center;
 }
 .half-width{
     width: 50%;
@@ -13,11 +18,24 @@ h1{
     
 }
 .half-width img{
-    width: 90%;
+    width: 80%;
 }
 .link-button{
     text-decoration: none;
     padding: 10px 40px;
     background-color: chocolate;
     border-radius: 5px;
+}
+.down-banner{
+    width: 35%;
+    padding-left: 5%;
+}
+.down-banner img{
+    width: 90%;
+}
+h3{
+    font-size: 70px;
+}
+#highlights{
+    text-align: center;
 }
