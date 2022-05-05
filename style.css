@@ -1,0 +1,31 @@
+body{
+    margin-left: 0;
+}
+.half-width{
+    width: 100%;
+    margin-left: 5px;
+    display: flex;
+    border-bottom: 10px;
+}
+.introduction-area{
+    width: 40%;
+    margin-left: 5%;
+    padding: 10px ;
+
+}
+.half-width img{
+    width: 100%;
+    margin-left: 5%;
+    
+}
+.buttons{
+    background-color: chocolate;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px ;
+    border-radius: 5px;
+
+}
